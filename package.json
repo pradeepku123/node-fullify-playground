@@ -1,0 +1,23 @@
+{
+  "name": "node-fullify-playground",
+  "version": "1.0.0",
+  "description": "DATE:- 17th APR 2022 BY:Pradeep Kumar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepku123/node-fullify-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepku123/node-fullify-playground/issues"
+  },
+  "homepage": "https://github.com/pradeepku123/node-fullify-playground#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
